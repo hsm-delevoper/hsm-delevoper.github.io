@@ -1,3 +1,2 @@
-theme: jekyll-theme-minimal
-title: HSM-page
-description: Hello World!
+markdown: kramdown
+theme: minima
